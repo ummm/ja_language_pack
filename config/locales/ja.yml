@@ -69,9 +69,9 @@ ja:
     assets:
       additional_thumbnails: 'Additional Thumbnails'
       content_types: 'Content Types'
-      create_image_thumbnails?: '画像サムネイルを生成する'
-      create_pdf_thumbnails?: 'PDF サムネイルを生成する'
-      create_video_thumbnails?: '動画サムネイルを生成する'
+      create_image_thumbnails?: '画像サムネイルを生成'
+      create_pdf_thumbnails?: 'PDF サムネイルを生成'
+      create_video_thumbnails?: '動画サムネイルを生成'
       display_size: 'Display Size'
       insertion_size: 'Insertion Size'
       max_asset_size: 'アセットの最大サイズ'
@@ -192,8 +192,8 @@ ja:
   scheduled: "Scheduled"
   search_tags: 'タグ検索:'
   select:
-    default: '<default>'
-    inherit: '<inherit>'
+    default: 'デフォルト'
+    inherit: '上位ページと同じ'
     none: 'なし'
     normal: '普通'
   settings: '設定'

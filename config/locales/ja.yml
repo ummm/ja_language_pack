@@ -184,7 +184,7 @@ ja:
     removed: "{{humanized_model_name}}を削除しました。."
     saved: "{{humanized_model_name}}を保存しました。"
     update_conflict: "読み込み時と比べて、{{humanized_model_name}}に変更があります。このまま保存すると、変更を失う可能性があります。"
-    validation_errors: "Validation errors occurred while processing this form. Please take a moment to review the form and correct any input errors before continuing."
+    validation_errors: "処理中にエラーが発生しました。内容を確認し、問題のある箇所を修正してから続けてください。"
   reviewed: 'レビュー'
   roles: 'ロール'
   saving_changes: Saving Changes
